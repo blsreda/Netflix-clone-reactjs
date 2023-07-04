@@ -23,26 +23,6 @@ https://netflixclone-react-js-app.netlify.app/
 
 From your command line, first clone this repo:
 
-```
-# Clone this repository
-$ https://github.com/0mar-helal/netflix-clone-react.git
 
-# Go into the repository
-$ cd netflix-clone-react
-
-# Remove current origin repository
-$ git remote remove origin
-
-```
-
-Then you can install the dependencies using NPM:
-
-```
-# Install dependencies
-$ npm install
-
-# Start development server
-$ npm start
-```
 👨‍💻 Happy coding!
 ---
