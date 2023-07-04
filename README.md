@@ -1,7 +1,7 @@
 # Netflix Clone React
 
 ## 📌 Live Demo
-[https://netflix-clone-react-iv5k.onrender.com/](https://netflixclone-react-js-app.netlify.app/)
+[[https://netflix-clone-react-iv5k.onrender.com/](https://netflixclone-react-js-app.netlify.app/)](https://netflixclone-react-js-app.netlify.app/)
 
 ## 😎 Features
 
